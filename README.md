@@ -80,9 +80,9 @@ Before I even start thinking about headings and an outline, I like to start with
 
 Information foraging is the process of gathering all the core ideas from competitive articles. The simplest way to do this is to run through the article yourself and create a bullet point list of every relevant or important idea you come across. 
 
-This information foraging phase is also a great way to utilize an LLM such as GPT 3.5. Below is an agent or system prompt, based on [David Shapiro's Sparse Priming Representations]([GitHub - daveshap/SparsePrimingRepresentations: Public repo to document some SPR stuff](https://github.com/daveshap/SparsePrimingRepresentations)), that aims to accomplish just this. 
+This information foraging phase is also a great way to utilize an LLM such as GPT 3.5. Below is an agent or system prompt, based on [David Shapiro's Sparse Priming Representations](https://github.com/daveshap/SparsePrimingRepresentations), that aims to accomplish just this. 
 
-LINK TO AGENT DOC
+[Article Condenser ("SPR" Creator)](https://github.com/krutzar/seo-outline-creation-process/blob/main/article-condenser-spr-creator.md)
 
 My recommendation would be to use this AI agent's output, paired with your own, to create a comprehensive information foraging output. If you're analyzing 3 competitor articles, you should have 4 sections in your Information Foraging document. One AI output for each article, and a Fourth "human notes" for extra findings you gleam from all the articles.
 ### Search Intent & Thesis
@@ -103,7 +103,7 @@ Then you can start mapping core ideas to H2 and H3 headings. To get a starting p
 This is the part you'll probably want the most human intervention with as it's the part that's the most "creative" so to speak. Make sure you're organizing info in ways that make the most sense, and make sure your writing points make sense. 
 
 ### Creating Your H1
-I'm not going to go super into detail, but you'll likely want to create your H1 heading as it's own task, as it's one of the 4 most important keyword optimization elements (alongside your URL slug, meta title, and mentioning the KW throughout the body)
+I'm not going to go super into detail as there's plenty on H1 best practices out there, but you'll likely want to create your H1 heading as it's own task, as it's one of the 4 most important keyword optimization elements (alongside your URL slug, meta title, and mentioning the KW throughout the body)
 
 Here's some guidelines
 - Put the keyword in the H1 title. Ideally up front. 
@@ -113,10 +113,15 @@ Here's some guidelines
 Often I'll use this tool to compare title ideas: [IsItWP Headline Analyzer](https://www.isitwp.com/headline-analyzer/)
 
 ---
-#### Links to Resources Mentioned
-- Info Foraging Script
-- Info Brief Creator Agent
-- Outline Creator Agent
+### Examples, Templates, Outputs
 - Outline Template
 - Outline Example
+
+#### Links to Resources Mentioned
+- [Scraper & Compiler Program](https://github.com/krutzar/seo-outline-creation-process/blob/main/article-scraper-and-compiler-program.py)
+- [Article Condenser ("SPR" Creator)](https://github.com/krutzar/seo-outline-creation-process/blob/main/article-condenser-spr-creator.md)
+- [Research Brief Creator Agent](https://github.com/krutzar/seo-outline-creation-process/blob/main/research-brief-creator.md)
+- [Outline Creator Agent](https://github.com/krutzar/seo-outline-creation-process/blob/main/outline-creator.md)
 - [IsItWP Headline Analyzer](https://www.isitwp.com/headline-analyzer/)
+- [Google Search API](https://developers.google.com/custom-search/v1/overview)
+- [OpenAI API](https://openai.com/index/openai-api)
