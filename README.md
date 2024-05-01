@@ -1,6 +1,8 @@
 # seo-outline-creation-process
 My current, personal system and process for creating an article or content outline with SEO in mind. This process aims to gather all of the relevant technical information, as well as provide a repeatable and efficient system for creating blog outlines to save time across content creation. 
 
+[See More Of My SEO Related Work](https://rkseo.xyz)
+
 ## Context
 This process is built off of a few other pieces of my process. In an attempt to make this information more relevant, I want to outline a few short pieces of context that relate to how I get to this point, and how I've gathered some of the information mentioned here. 
 
