@@ -116,8 +116,8 @@ Often I'll use this tool to compare title ideas: [IsItWP Headline Analyzer](http
 
 ---
 ### Examples, Templates, Outputs
-- Outline Template
-- Outline Example
+- [Outline Template](https://github.com/krutzar/seo-outline-creation-process/blob/main/Blog%20Outline%20Template.docx)
+- [Outline Example](https://github.com/krutzar/seo-outline-creation-process/blob/main/Finished%20Outline%20Example.docx)
 
 #### Links to Resources Mentioned
 - [Scraper & Compiler Program](https://github.com/krutzar/seo-outline-creation-process/blob/main/article-scraper-and-compiler-program.py)
