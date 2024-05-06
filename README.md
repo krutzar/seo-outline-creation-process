@@ -89,6 +89,10 @@ This information foraging phase is also a great way to utilize an LLM such as GP
 My recommendation would be to use this AI agent's output, paired with your own, to create a comprehensive information foraging output. If you're analyzing 3 competitor articles, you should have 4 sections in your Information Foraging document. One AI output for each article, and a Fourth "human notes" for extra findings you gleam from all the articles.
 ### Search Intent & Thesis
 These are relatively straightforward, but important to making sure your article is focused on the right information. 
+
+Search intent is simply answering "what informatoin is the user looking for when they search this query in a search engine." This can be implied through the keyword, as well as by checking search results. Making sure search intent is aligned when putting together your article is maybe the most important piece, as if the search intent is misaligned it'll be an uphill battle to get your content ranking well. 
+
+Thesis is effectilvy the most central and distilled answer to your search intent. What your main point for the article is, and ensuring that it addresses what the user is looking for. 
 ## Extracting Core Ideas
 This is the fundamentals of structuring the ideas in the blog. I start this out by simply running through the top competition blogs and noting all the unique ideas with bullet points. From there you can start to get an idea around what the most important ideas are. 
 
