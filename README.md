@@ -9,7 +9,7 @@ This process is built off of a few other pieces of my process. In an attempt to 
 My content planning all begins with cluster research and creation. I have a full repository I'm working on to fully map this process out, but for now just know that the cluster ends with a list of articles, each which has anywhere from one to several hundred keywords. This list of grouped keywords is what I'm using to select my primary and secondary keywords as mentioned below. This also allows me to plan out internal linking structure and topical coverage before writing the articles. 
 
 **Relevant Repos:** 
-- Cluster Creation Process (Coming Soon)
+- [Cluster Creation Process](https://github.com/krutzar/topic-cluster-creation)
 - Authority Tiers: My Implementation of the Avalanche theory / process (Coming Soon)
 ### Process Overview
 The process is based into two primary phases of information gathering: SEO Information and "Idea" or "Content" information. I've gone into great detail below as to how I gather the relevant information from each of the below sections. For now here is an outline or overview of the process. 
